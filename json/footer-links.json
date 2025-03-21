@@ -1,0 +1,34 @@
+[
+  { "head": "contact", "name": "Email", "href": "#", "icon": "Email" },
+  { "head": "contact", "name": "Twitter", "href": "#", "icon": "X" },
+  { "head": "contact", "name": "Instagram", "href": "#", "icon": "Instagram" },
+  { "head": "platforms", "name": "iOS", "href": "#", "icon": "IOS" },
+  { "head": "platforms", "name": "Android", "href": "#", "icon": "IOS" },
+  { "head": "platforms", "name": "Web", "href": "#", "icon": "Web" },
+  {
+    "head": "help",
+    "name": "Contact Us",
+    "href": "https://x.com/ignoumate_in",
+    "icon": "Phone"
+  },
+  { "head": "help", "name": "FAQs", "href": "faqs", "icon": "Question" },
+  {
+    "head": "help",
+    "name": "Feedback",
+    "href": "https://x.com/ignoumate_in",
+    "icon": "Help"
+  },
+  {
+    "head": "about",
+    "name": "Privacy Policy",
+    "href": "privacy-policy",
+    "icon": "Private"
+  },
+  {
+    "head": "about",
+    "name": "Terms & Conditions",
+    "href": "terms-and-conditions",
+    "icon": "Terms"
+  },
+  { "head": "about", "name": "About Us", "href": "about", "icon": "Info" }
+]
