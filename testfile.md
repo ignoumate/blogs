@@ -1,7 +1,7 @@
 ---
 title: testing gray matter
 description: this is test description
-keywords: ok, not, ok, five
+keywords: [ok, not, ok, five]
 updatedAt: 25 March 2025
 author: Admin
 ---
