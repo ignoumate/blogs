@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "Blocks",
+    "title": "Dashboard",
+    "description": "A Centralized Place to check all your results including Term-End-Examinations, Revaluation Status, Assignment Status & Gradecard Status."
+  },
+  {
+    "icon": "ChartColumn",
+    "title": "Statistics",
+    "description": "See gradecard percentage, how much it is complete and where you rank among your Ignou Friends."
+  },
+  {
+    "icon": "Wallet",
+    "title": "Study Material",
+    "description": "cannot find study material for your programme?, do not worry, we got you covered, find all your programme related materials at one place."
+  },
+  {
+    "icon": "Sparkle",
+    "title": "Community",
+    "description": "Join a community filled with similar people like you, clear up your doubts, and rank up together."
+  }
+]
