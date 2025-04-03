@@ -1,0 +1,74 @@
+[
+  {
+    "for": "top",
+    "index": "1",
+    "icon": "LogIn",
+    "name": "Login",
+    "href": "/auth?type=login",
+    "visible": "!auth"
+  },
+  {
+    "for": "top",
+    "index": "2",
+    "icon": "User",
+    "name": "Profile",
+    "href": "/profile",
+    "visible": "auth"
+  },
+  {
+    "for": "top",
+    "index": "3",
+    "icon": "Table",
+    "name": "Dashboard",
+    "href": "/dashboard",
+    "visible": "auth"
+  },
+  {
+    "for": "middle",
+    "index": "1",
+    "icon": "Handshake",
+    "name": "Mentors",
+    "href": "/m",
+    "visible": "all"
+  },
+  {
+    "for": "middle",
+    "index": "2",
+    "icon": "Volleyball",
+    "name": "Important Info",
+    "href": "/p/important-info",
+    "visible": "all"
+  },
+  {
+    "for": "middle",
+    "index": "3",
+    "icon": "BookCheck",
+    "name": "Solved Assigments",
+    "href": "/shop",
+    "visible": "all"
+  },
+  {
+    "for": "bottom",
+    "index": "1",
+    "icon": "Crown",
+    "name": "Subscription",
+    "href": "/profile",
+    "visible": "subscription"
+  },
+  {
+    "for": "bottom",
+    "index": "2",
+    "icon": "Gem",
+    "name": "IGNOUMate+",
+    "href": "/pricing",
+    "visible": "!subscription"
+  },
+  {
+    "for": "bottom",
+    "index": "3",
+    "icon": "Info",
+    "name": "About Us",
+    "href": "/about",
+    "visible": "all"
+  }
+]
